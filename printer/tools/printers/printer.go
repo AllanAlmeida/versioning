@@ -10,3 +10,8 @@ func PrintYourName(name string) (outname string) {
 	outname = name
 	return
 }
+
+func PrintJustOnDevelop() (outname string) {
+	outname = "Just on Develop"
+	return
+}
